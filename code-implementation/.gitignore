@@ -1,0 +1,4 @@
+myenv/
+*.npy
+*.txt
+*.log
